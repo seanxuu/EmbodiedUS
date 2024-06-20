@@ -1,1 +1,1 @@
-# embodied_ultrasound_robot
+# EmbodiedUS
