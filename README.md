@@ -4,7 +4,7 @@ This is the repository that contains source code for the [EmbodeidUS website](ht
 
 
 ## Latest News 🎉
-\[2024/06\] Our paper has been accepted by MICCAI 2024.
+\[2024/06\] Our paper has been accepted by [MICCAI 2024](https://conferences.miccai.org/2024/en/).
   
 ## Citation
 
